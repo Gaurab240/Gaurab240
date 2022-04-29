@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurab240
-- 👀 I’m interested in Wordpress,Reactjs and React Native
-- 🌱 I’m currently learning Reactjs
+- 👀 I’m interested in ASP.net,Reactjs and React Native and Wordpress
+- 🌱 I’m currently learning ASP.net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gaurabghimire240@gmail.com
 
